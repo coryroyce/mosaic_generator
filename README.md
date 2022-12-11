@@ -9,6 +9,14 @@ Create a Mosaic Generator that can take in input images and generate a mosaic fr
 1. Mosaic Generator
 2. Reference Image Gathering
 
-## Reference
+## Running Mosaic Generator
 
-Template and inital python structure for the mosaic came from (futureprogrammer360)[https://github.com/futureprogrammer360/Python-Photomosaic.git]
+Template
+`python mosaic_generator.py <image> <tiles directory>`
+
+Example
+`python mosaic_generator.py /input_images/Pikachu.jpeg /source_images`
+
+
+
+## Reference
