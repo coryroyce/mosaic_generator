@@ -17,6 +17,9 @@ Template
 Example
 `python mosaic_generator.py /input_images/Pikachu.jpeg /source_images`
 
+## Notes
+
+Pokemon card size of image after overlap = 47mm tall x 63mm wide
 
 
 ## Reference

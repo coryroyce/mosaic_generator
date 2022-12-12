@@ -1,0 +1,232 @@
+{
+  "(100, 110, 110)": [
+    "src/mosaic_generator/tile_images/181_264.JPG"
+  ],
+  "(100, 130, 90)": [
+    "src/mosaic_generator/tile_images/162_264.JPG"
+  ],
+  "(110, 100, 110)": [
+    "src/mosaic_generator/tile_images/192_264.JPG"
+  ],
+  "(110, 110, 120)": [
+    "src/mosaic_generator/tile_images/183_264.JPG"
+  ],
+  "(110, 130, 150)": [
+    "src/mosaic_generator/tile_images/207_264.JPG"
+  ],
+  "(110, 140, 120)": [
+    "src/mosaic_generator/tile_images/081_264.JPG"
+  ],
+  "(110, 160, 150)": [
+    "src/mosaic_generator/tile_images/004_264.JPG"
+  ],
+  "(110, 180, 160)": [
+    "src/mosaic_generator/tile_images/005_264.JPG"
+  ],
+  "(120, 110, 100)": [
+    "src/mosaic_generator/tile_images/165_264.JPG"
+  ],
+  "(120, 110, 110)": [
+    "src/mosaic_generator/tile_images/161_264.JPG"
+  ],
+  "(120, 130, 130)": [
+    "src/mosaic_generator/tile_images/184_264.JPG"
+  ],
+  "(120, 140, 140)": [
+    "src/mosaic_generator/tile_images/048_264.JPG"
+  ],
+  "(120, 150, 160)": [
+    "src/mosaic_generator/tile_images/155_264.JPG"
+  ],
+  "(120, 160, 150)": [
+    "src/mosaic_generator/tile_images/100_264.JPG"
+  ],
+  "(120, 170, 210)": [
+    "src/mosaic_generator/tile_images/229_264.JPG"
+  ],
+  "(120, 90, 90)": [
+    "src/mosaic_generator/tile_images/233_264.JPG"
+  ],
+  "(130, 110, 120)": [
+    "src/mosaic_generator/tile_images/169_264.JPG"
+  ],
+  "(130, 120, 110)": [
+    "src/mosaic_generator/tile_images/160_264.JPG"
+  ],
+  "(130, 130, 190)": [
+    "src/mosaic_generator/tile_images/215_264.JPG"
+  ],
+  "(130, 140, 110)": [
+    "src/mosaic_generator/tile_images/070_264.JPG"
+  ],
+  "(130, 140, 150)": [
+    "src/mosaic_generator/tile_images/033_264.JPG"
+  ],
+  "(130, 150, 130)": [
+    "src/mosaic_generator/tile_images/212_264.JPG"
+  ],
+  "(130, 150, 170)": [
+    "src/mosaic_generator/tile_images/227_264.JPG"
+  ],
+  "(140, 120, 100)": [
+    "src/mosaic_generator/tile_images/230_264.JPG"
+  ],
+  "(140, 120, 110)": [
+    "src/mosaic_generator/tile_images/167_264.JPG"
+  ],
+  "(140, 120, 150)": [
+    "src/mosaic_generator/tile_images/129_264.JPG"
+  ],
+  "(140, 140, 120)": [
+    "src/mosaic_generator/tile_images/075_264.JPG"
+  ],
+  "(140, 150, 130)": [
+    "src/mosaic_generator/tile_images/097_264.JPG"
+  ],
+  "(140, 150, 180)": [
+    "src/mosaic_generator/tile_images/120_264.JPG"
+  ],
+  "(140, 160, 150)": [
+    "src/mosaic_generator/tile_images/180_264.JPG"
+  ],
+  "(140, 160, 170)": [
+    "src/mosaic_generator/tile_images/049_264.JPG"
+  ],
+  "(140, 160, 210)": [
+    "src/mosaic_generator/tile_images/088_264.JPG"
+  ],
+  "(140, 170, 150)": [
+    "src/mosaic_generator/tile_images/205_264.JPG"
+  ],
+  "(140, 180, 150)": [
+    "src/mosaic_generator/tile_images/144_264.JPG"
+  ],
+  "(150, 120, 80)": [
+    "src/mosaic_generator/tile_images/214_264.JPG"
+  ],
+  "(150, 140, 120)": [
+    "src/mosaic_generator/tile_images/096_264.JPG"
+  ],
+  "(150, 160, 150)": [
+    "src/mosaic_generator/tile_images/056_264.JPG"
+  ],
+  "(150, 160, 170)": [
+    "src/mosaic_generator/tile_images/191_264.JPG",
+    "src/mosaic_generator/tile_images/223_264.JPG"
+  ],
+  "(160, 120, 120)": [
+    "src/mosaic_generator/tile_images/128_264.JPG"
+  ],
+  "(160, 140, 130)": [
+    "src/mosaic_generator/tile_images/190_264.JPG"
+  ],
+  "(160, 150, 120)": [
+    "src/mosaic_generator/tile_images/151_264.JPG"
+  ],
+  "(160, 150, 130)": [
+    "src/mosaic_generator/tile_images/145_264.JPG"
+  ],
+  "(160, 150, 140)": [
+    "src/mosaic_generator/tile_images/130_264.JPG",
+    "src/mosaic_generator/tile_images/014_264.JPG",
+    "src/mosaic_generator/tile_images/203_264.JPG"
+  ],
+  "(160, 160, 170)": [
+    "src/mosaic_generator/tile_images/232_264.JPG"
+  ],
+  "(160, 170, 210)": [
+    "src/mosaic_generator/tile_images/234_264.JPG"
+  ],
+  "(160, 180, 150)": [
+    "src/mosaic_generator/tile_images/224_264.JPG"
+  ],
+  "(160, 180, 190)": [
+    "src/mosaic_generator/tile_images/228_264.JPG"
+  ],
+  "(160, 190, 150)": [
+    "src/mosaic_generator/tile_images/002_264.JPG"
+  ],
+  "(170, 160, 110)": [
+    "src/mosaic_generator/tile_images/083_264.JPG"
+  ],
+  "(170, 160, 130)": [
+    "src/mosaic_generator/tile_images/211_264.JPG"
+  ],
+  "(170, 160, 140)": [
+    "src/mosaic_generator/tile_images/159_264.JPG"
+  ],
+  "(170, 170, 130)": [
+    "src/mosaic_generator/tile_images/057_264.JPG"
+  ],
+  "(170, 170, 140)": [
+    "src/mosaic_generator/tile_images/020_264.JPG"
+  ],
+  "(170, 170, 150)": [
+    "src/mosaic_generator/tile_images/117_264.JPG"
+  ],
+  "(170, 170, 190)": [
+    "src/mosaic_generator/tile_images/202_264.JPG"
+  ],
+  "(170, 180, 120)": [
+    "src/mosaic_generator/tile_images/074_264.JPG"
+  ],
+  "(170, 180, 160)": [
+    "src/mosaic_generator/tile_images/059_264.JPG",
+    "src/mosaic_generator/tile_images/226_264.JPG"
+  ],
+  "(170, 200, 170)": [
+    "src/mosaic_generator/tile_images/231_264.JPG"
+  ],
+  "(180, 160, 100)": [
+    "src/mosaic_generator/tile_images/051_264.JPG"
+  ],
+  "(180, 160, 130)": [
+    "src/mosaic_generator/tile_images/164_264.JPG"
+  ],
+  "(180, 170, 140)": [
+    "src/mosaic_generator/tile_images/220_264.JPG"
+  ],
+  "(180, 190, 150)": [
+    "src/mosaic_generator/tile_images/080_264.JPG"
+  ],
+  "(190, 160, 100)": [
+    "src/mosaic_generator/tile_images/065_264.JPG"
+  ],
+  "(190, 180, 160)": [
+    "src/mosaic_generator/tile_images/072_264.JPG"
+  ],
+  "(190, 180, 90)": [
+    "src/mosaic_generator/tile_images/082_264.JPG"
+  ],
+  "(190, 200, 190)": [
+    "src/mosaic_generator/tile_images/152_264.JPG"
+  ],
+  "(200, 200, 160)": [
+    "src/mosaic_generator/tile_images/003_264.JPG"
+  ],
+  "(200, 210, 220)": [
+    "src/mosaic_generator/tile_images/071_264.JPG"
+  ],
+  "(210, 190, 170)": [
+    "src/mosaic_generator/tile_images/118_264.JPG",
+    "src/mosaic_generator/tile_images/085_264.JPG"
+  ],
+  "(210, 200, 170)": [
+    "src/mosaic_generator/tile_images/025_264.JPG"
+  ],
+  "(60, 80, 110)": [
+    "src/mosaic_generator/tile_images/154_264.JPG"
+  ],
+  "(80, 130, 180)": [
+    "src/mosaic_generator/tile_images/019_264.JPG"
+  ],
+  "(80, 80, 170)": [
+    "src/mosaic_generator/tile_images/225_264.JPG"
+  ],
+  "(90, 150, 130)": [
+    "src/mosaic_generator/tile_images/001_264.JPG"
+  ],
+  "(90, 80, 90)": [
+    "src/mosaic_generator/tile_images/147_264.JPG"
+  ]
+}
